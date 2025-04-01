@@ -3,7 +3,7 @@
 my tech stack:
 
 <blockquote>
-  JavaScript
+  🚓 JavaScript
 </blockquote>
 <blockquote>
   TypeScript
